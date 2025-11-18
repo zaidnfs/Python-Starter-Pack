@@ -3,8 +3,6 @@
 A classic implementation of the arcade game Snake using the Python `turtle` graphics library.
 
 ***
-
-## 📸 Screenshots
 <p align="center">
     <img src="https://i.pinimg.com/originals/f0/6e/79/f06e795352e21c9936e2b8a0991c7a42.gif" alt="Gameplay GIF of the classic snake moving and eating food" width="600">
 </p>
