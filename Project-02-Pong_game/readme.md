@@ -6,6 +6,7 @@ A classic two-player arcade game of Pong, built using Python's built-in `turtle`
 <p align="center">
 <img src="https://i.pinimg.com/originals/9a/87/3b/9a873b64d3fc756c633a6c23d4627560.gif" alt="A demonstration of the two-player Pong game in action" width="800" height="300"/>
 </p>
+
 ## ✨ Features
 
 * **Two-Player Local Multiplayer:** Control two separate paddles on a single screen.
