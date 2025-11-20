@@ -1,5 +1,13 @@
 # 🐢 Turtle Crossing Game 🚗
 
+[![Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/badges/shields)
+
+<p align="center">
+    <img src="https://media.tenor.com/zabQ7gLy57YAAAAM/jet-turtle-jet-turtle2.gif" alt="Gameplay GIF of the classic snake moving and eating food" width="600" height="300">
+</p>
+
+
 A simple arcade-style game where you help a turtle cross a busy road filled with moving cars. Built using Python's `turtle` graphics library.
 
 ***
