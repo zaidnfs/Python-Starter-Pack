@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/badges/shields)
 
 <p align="center">
-    <img src="https://media.tenor.com/zabQ7gLy57YAAAAM/jet-turtle-jet-turtle2.gif" alt="Gameplay GIF of the classic snake moving and eating food" width="600" height="300">
+    <img src="https://www.shutterstock.com/shutterstock/photos/1324143053/display_1500/stock-vector-phonetic-alphabet-chart-guide-vector-illustration-1324143053.jpg" alt="Gameplay GIF of the classic snake moving and eating food" width="600" height="300">
 </p>
 
 A Python program that converts any word provided by the user into its corresponding NATO phonetic alphabet code words.
