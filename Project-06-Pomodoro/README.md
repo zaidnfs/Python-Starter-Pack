@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/badges/shields)
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tomato-15327.jpg" alt="Pomodoro Timer" width="400">
+    <img src="https://cdn.prod.website-files.com/634681057b887c6f4830fae2/6712a20938ffa37f04d4020d_6367dd60c4f0de81077d62d9_6259f83308f5310000298ee2_pomodoro.png" alt="Pomodoro Timer" width="400">
 </p>
 
 A graphical desktop application that helps you stay productive using the **Pomodoro Technique**. Built with Python's `tkinter` library, this app manages your work and break sessions with a visual timer.
