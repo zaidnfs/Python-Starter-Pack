@@ -4,7 +4,7 @@ A Python application that automatically sends personalized birthday emails to yo
 
 ***
 <p align="center">
-    <img src="https://marketplace.canva.com/EAFYJKGkaTQ/2/0/1600w/canva-white-and-gold-modern-greeting-happy-birthday-card-YQuXbM7Sca8.jpg" alt="Birthday Candles" width="300">
+    <img src="https://marketplace.canva.com/EAFYJKGkaTQ/2/0/1600w/canva-white-and-gold-modern-greeting-happy-birthday-card-YQuXbM7Sca8.jpg" alt="Birthday Candles" width="500" height="500">
 </p>
 
 ***
