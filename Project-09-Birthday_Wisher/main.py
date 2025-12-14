@@ -14,8 +14,8 @@ import random
 import smtplib
 
 
-sender = "sallyfally09@gmail.com"
-password = "xqtintxdudqbnejz"
+sender = "YOUR_GMAIL_ADDRESS"
+password = "YOUR_APP_PASSWORD"
 
 templates = ["letter_1.txt", "letter_2.txt", "letter_3.txt"]
 today = dt.datetime.now()
