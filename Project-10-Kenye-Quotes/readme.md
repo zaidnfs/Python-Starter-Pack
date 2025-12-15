@@ -4,7 +4,7 @@ A fun Python GUI application that displays random Kanye West quotes at the click
 
 ***
 <p align="center">
-    <img src="https://thestrive.co/wp-content/uploads/2022/01/inspirational-kanye-west-quotes.jpg" alt="Kanye West" width="300" height="400">
+    <img src="https://thestrive.co/wp-content/uploads/2022/01/inspirational-kanye-west-quotes.jpg" alt="Kanye West" width="500" height="500">
 </p>
 
 ***
